@@ -69,7 +69,7 @@ unset path dir
 # FUNCTIONS --------------------------------------------------------------------
 
 function init() {
-    h1="VirtualMan's 400GB PlayBox 4.4.5.3 \"Retro-Bliss-Tweak\""
+    h1="VirtualMan Post-Fixes"
 
     h2Main="| Post-Fixes & Tools |"
     h2Toggle="| Toggle Fix Inclusion |"
